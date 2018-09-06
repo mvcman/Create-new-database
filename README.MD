@@ -23,7 +23,7 @@ Alternately, you can use Github to fork and clone the repository https://github.
 
 # Download and run the file:
 
-> 1. Clone this repository to your local drive: https://github.com/9snehal/Webserver
+> 1. Clone this repository to your local drive: https://github.com/mvcman/database
 
 >2. Copy the file into the FSND_Virtual_Machine/vagrant directory.
 
