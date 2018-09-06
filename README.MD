@@ -33,11 +33,11 @@ Alternately, you can use Github to fork and clone the repository https://github.
 
 >5. cd into the vagrant subdirectory vagrant@vagrant:~$ cd /vagrant
 
->6. Run the database_setup.py program vagrant@vagrant:/vagrant$ python database_setup.py
+>6. Run the database.py program vagrant@vagrant:/vagrant$ python database.py
 
->7. Run the menu.py program to add the menu in database file vagrant@vagrant:/vagrant$ python menu.py
+>7. Run the create_menu.py program to add the menu in database file vagrant@vagrant:/vagrant$ python create_menu.py
 
->8. Run the quiz18.py program vagrant@vagrant:/vagrant$ python quiz.py
+>8. Run the my-restaurant.py program vagrant@vagrant:/vagrant$ python my-restaurant.py
 
 >9. Open the browser and run the 'localhost:8080/restaurants' as per given in the file
 
